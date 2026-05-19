@@ -1,0 +1,9 @@
+Eliel:
+  data:
+    Altura: 172
+    Descripcion: Estudiante
+    Edad: 23
+    Lista de habilidades: a, b, c, ...
+    Nombre: Eliel segovia
+    Peso: 80
+  path: config.yaml
