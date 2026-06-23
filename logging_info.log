@@ -1,0 +1,18 @@
+2026-06-23 15:19:03,360 - DEBUG - function: send - elemento agregado a la cola
+2026-06-23 15:19:03,360 - DEBUG - function: send - elemento agregado a la cola
+2026-06-23 15:19:03,360 - DEBUG - function: send - elemento agregado a la cola
+2026-06-23 15:19:03,361 - DEBUG - function: send - elemento agregado a la cola
+2026-06-23 15:19:03,361 - DEBUG - function: send - elemento agregado a la cola
+2026-06-23 15:19:05,360 - DEBUG - function: receive - data recibida
+2026-06-23 15:19:05,361 - DEBUG - function: send - elemento agregado a la cola
+2026-06-23 15:19:07,362 - DEBUG - function: receive - data recibida
+2026-06-23 15:19:07,362 - DEBUG - function: send - elemento agregado a la cola
+2026-06-23 15:19:09,377 - DEBUG - function: receive - data recibida
+2026-06-23 15:19:09,377 - DEBUG - function: send - elemento agregado a la cola
+2026-06-23 15:19:11,378 - DEBUG - function: receive - data recibida
+2026-06-23 15:19:13,380 - DEBUG - function: receive - data recibida
+2026-06-23 15:19:15,381 - DEBUG - function: receive - data recibida
+2026-06-23 15:19:17,382 - DEBUG - function: receive - data recibida
+2026-06-23 15:19:19,383 - DEBUG - function: receive - data recibida
+2026-06-23 15:19:21,384 - INFO - function: receive - No hay elementos a recibir
+2026-06-23 15:19:23,385 - INFO - function: receive - No hay elementos a recibir
